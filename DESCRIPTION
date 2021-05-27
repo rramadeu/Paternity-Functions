@@ -1,6 +1,6 @@
 Package: PloidyPaternity
 Title: Paternity per exclusion in autotetraploids
-Version: 0.0.1
+Version: 0.0.2
 Description: Functions to determine the test paternity by exclusion in autotetraploids and to select best subset of molecular markers for the test
 Authors@R: c(person("Sam", "Beazley", role="aut", email = "sbeazley@ufl.edu"),
              person("Rodrigo", "Amadeu", role=c("ctb","cre"), email = "rramadeu@gmail.com"))
